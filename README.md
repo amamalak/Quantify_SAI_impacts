@@ -24,4 +24,3 @@ in preparation...
 This project is licensed under an MIT license.
 
 MIT © [Antonios Mamalakis](https://amamalak.wixsite.com/antonios)
-![image](https://user-images.githubusercontent.com/72468665/213895466-4eddf904-62e1-4fb7-a3b0-2504d7b2f1f3.png)
